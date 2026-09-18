@@ -9,3 +9,8 @@ Based on the method described in:
 A pipeline that trains and applies a clinical outcome predictor on 3D landmark data. Given paired pre- and post-treatment landmark configurations per patient plus clinical variables, it builds a geometric feature vector set of pairwise distances, trains a regularized MLP, and reports both a per-patient probability and a ranked list of which features drive the prediction.
 
 No external method required, CPM consumes 3D landmark text files directly.
+
+Team
+Artur Aharonyan
+HyeRan Choo
+Syed Anwar
